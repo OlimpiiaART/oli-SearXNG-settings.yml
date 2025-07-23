@@ -583,6 +583,7 @@ engines:
     engine: openverse
     categories: images
     shortcut: opv
+    disabled: true
 
   - name: media.ccc.de
     engine: ccc_media
@@ -723,6 +724,7 @@ engines:
     engine: deviantart
     shortcut: da
     timeout: 3.0
+    disabled: true
 
   - name: ddg definitions
     engine: duckduckgo_definitions
@@ -815,7 +817,6 @@ engines:
     categories: [images, web]
     ddg_category: images
     shortcut: ddi
-    disabled: true
 
   - name: duckduckgo videos
     engine: duckduckgo_extra
