@@ -2704,7 +2704,6 @@ engines:
     base_url: https://minecraft.wiki/
     api_path: "api.php"
     search_type: text
-    disabled: true
     about:
       website: https://minecraft.wiki/
       wikidata_id: Q105533483
